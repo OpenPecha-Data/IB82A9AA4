@@ -1,10 +1,10 @@
-|P003214|དབྱང་ཚང་གི་དམག་དཔོན། 
+|IB82A9AA4|དབྱང་ཚང་གི་དམག་དཔོན། 
 | --- | --- 
 |Alternative Title |
 |Author| རྡོ་རྗེ་བཀྲ་ཤིས།
 |BDRC ID | W1KG25897
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P003214)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P003214/releases/download/v1/yang_tsang_gi_makpon_plain_P003214.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P003214/releases/download/v1/yang_tsang_gi_makpon_pages_P003214.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/IB82A9AA4)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/IB82A9AA4/releases/download/v1/yang_tsang_gi_makpon_plain_IB82A9AA4.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/IB82A9AA4/releases/download/v1/yang_tsang_gi_makpon_pages_IB82A9AA4.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1KG25897)
